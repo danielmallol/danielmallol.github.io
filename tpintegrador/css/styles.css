@@ -1,0 +1,131 @@
+
+footer {
+    background-image: linear-gradient(to right, rgb(25, 56, 92), rgba(9, 55, 70, 0.856));
+    ;
+}
+
+footer ul li a {
+    vertical-align: middle;
+    margin: 0 25px;
+}       
+
+nav {
+    background-color: hsl(210, 10%, 20%);
+    font-size: 1.2rem;
+}
+
+nav a {
+    color: white;
+ }
+
+nav a img {
+    margin-left: 60px;
+}
+
+nav span {
+    color: rgb(35, 168, 35);        
+}            
+
+textarea{
+    height: 100px;          
+}
+
+.btn {
+    background-color: rgb(140, 189, 44);
+    border-width: 0px;
+    margin-top: 10px;
+}
+
+.botontransp {
+    background-color: transparent !important;
+    color: white;
+    border: 1px solid white;
+}
+
+.botonverde {
+    background-color: rgb(7, 187, 7);
+    color: white;
+}
+
+.botontransp:hover{
+    background-color: white !important;
+    color: black !important;
+}
+
+.card1{
+    border-radius: 0%;
+}
+
+.card2{
+    align-items:flex-end;
+    margin-top: 300px;
+    border: none;
+    margin-right: 15px;
+}
+
+.card-title {
+    padding-top: 10px;
+    color: white;
+}
+
+.coldos {
+    background-color: rgb(43, 42, 46);
+    margin-left: -11px;
+}
+
+.card-text-dos {
+    color: white;
+    font-size: small;
+}
+
+.form1 {
+    margin-top: 10px;
+    margin-left: 320px;
+    margin-right: 320px;
+}
+
+.foto {
+    padding-left: 0%;
+}
+
+.fotoBA{
+    filter: brightness(50%);
+}
+
+.fotoHO{
+    max-width: 100%;
+}
+
+.img {
+    background-color: rgb(19, 29, 29);
+    opacity: 0.3;
+    background-image: url(img/ba1.jpg);
+}
+    
+.nav-link {
+    color: white;
+    text-decoration: none
+}
+
+.navcla {
+    margin-top: 5px;
+}
+
+.oradores {
+    text-align: center;
+    font-size: small;
+}
+
+.oradores span {
+    border-bottom: 1px dotted;
+}
+
+.react {
+    background-color: rgb(31, 161, 161) !important;
+    color: white;
+}
+
+.row-cols-1 {
+    margin-left: 150px;
+    margin-right: 150px;
+}
